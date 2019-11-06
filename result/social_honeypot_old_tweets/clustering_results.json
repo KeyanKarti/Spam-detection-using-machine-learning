@@ -1,0 +1,17 @@
+{
+   "cluster0":{
+      "composition":{
+         "1":1008,
+         "0":1597
+      },
+      "size":2605
+   },
+   "cluster1":{
+      "composition":{
+         "1":774,
+         "0":1612
+      },
+      "size":2386
+   },
+   "total_entries":4991
+}
